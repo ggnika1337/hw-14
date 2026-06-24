@@ -1,38 +1,7 @@
 [
-  {
-    "id": 1,
-    "name": "gas",
-    "price": 1500,
-    "creationDate": "2026-06-21"
-  },
-  {
-    "id": 2,
-    "name": "shopping",
-    "price": 200,
-    "creationDate": "2026-06-21"
-  },
-  {
-    "id": 3,
-    "name": "shopping",
-    "price": 200,
-    "creationDate": "2026-06-21"
-  },
-  {
-    "id": 4,
-    "name": "shopping",
-    "price": 200,
-    "creationDate": "2026-06-21"
-  },
-  {
-    "id": 6,
-    "name": "shopping",
-    "price": 200,
-    "creationDate": "2026-06-21"
-  },
-  {
-    "id": 7,
-    "name": "shopping",
-    "price": 200,
-    "creationDate": "2026-06-21"
-  }
+  { "id": 4, "name": "shopping", "price": 200, "creationDate": "2026-06-21" },
+  { "id": 6, "name": "groceries", "price": 110, "creationDate": "2026-06-21" },
+  { "id": 7, "name": "shopping", "price": 200, "creationDate": "2026-06-21" },
+  { "id": 8, "name": "shopping", "price": 2500, "creationDate": "2026-06-24" },
+  { "id": 9, "name": "drive", "price": 2600, "creationDate": "2026-06-24" }
 ]
